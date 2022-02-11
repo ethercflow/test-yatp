@@ -6,5 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-yatp = { git = "https://github.com/ethercflow/yatp" }
+yatp = { git = "https://github.com/ethercflow/yatp.git", branch = "refactor" }
 rand = "0.8.4"
